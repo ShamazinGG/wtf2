@@ -1,0 +1,101 @@
+[
+    {
+        "login": "admin",
+        "name": "asdasd",
+        "surname": "asdasd",
+        "birthdate": "15.05.1964",
+        "email": "",
+        "address": "",
+        "id": "5fbf7b7ecefaf"
+    },
+    {
+        "login": "admin",
+        "name": "asd",
+        "surname": "asd",
+        "birthdate": "15.05.1964",
+        "email": "example@ya.ru",
+        "address": "",
+        "id": "5fbf7bafacbc5"
+    },
+    {
+        "login": "Robocop11",
+        "name": "asd",
+        "surname": "asdasd",
+        "birthdate": "15.05.1964",
+        "email": "",
+        "address": "",
+        "id": "5fbf7bf58a535"
+    },
+    {
+        "login": "Robocop11",
+        "name": "asd",
+        "surname": "asdasd",
+        "birthdate": "15.05.1964",
+        "email": "",
+        "address": "",
+        "id": "5fbf7c623a15f"
+    },
+    {
+        "login": "admin",
+        "name": "asd",
+        "surname": "asd",
+        "birthdate": "15.05.1964",
+        "email": "",
+        "address": "",
+        "id": "5fbf7dcf24e54"
+    },
+    {
+        "login": "Robocop11",
+        "name": "asd",
+        "surname": "asd",
+        "birthdate": "asd",
+        "email": "example@ya.ru",
+        "address": "asdasd",
+        "id": "5fbf80df03e7b"
+    },
+    {
+        "login": "Robocop11",
+        "name": "asd",
+        "surname": "asd",
+        "birthdate": "15.05.1964",
+        "email": "",
+        "address": "",
+        "id": "5fbf8791715dd"
+    },
+    {
+        "login": "admin",
+        "name": "asd",
+        "surname": "asd",
+        "birthdate": "15.05.1964",
+        "email": "example@ya.ru",
+        "address": "asdasd",
+        "id": "5fbf8f9d7d811"
+    },
+    {
+        "login": "asdjj",
+        "name": "asd",
+        "surname": "asdasd",
+        "birthdate": "15.05.1964",
+        "email": "example@ya.ru",
+        "address": "asdasd",
+        "id": "5fbf9bb982837"
+    },
+    {
+        "login": "admin",
+        "name": "asd",
+        "surname": "asd",
+        "birthdate": "15.05.1964",
+        "email": "example@ya.ru",
+        "address": "",
+        "id": "5fc0a907d5a0e"
+    },
+    {
+        "login": "Robocop11",
+        "name": "asd",
+        "surname": "asd",
+        "birthdate": "15.05.1964",
+        "email": "",
+        "address": "",
+        "id": "5fc0ae21ae96c"
+    }
+]
